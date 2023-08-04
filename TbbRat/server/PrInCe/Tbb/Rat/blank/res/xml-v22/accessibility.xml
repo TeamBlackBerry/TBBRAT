@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service android:settingsActivity="com.moba11y.basicaccessibilityservice.SettingsActivity" android:accessibilityEventTypes="typeAllMask" android:accessibilityFeedbackType="feedbackSpoken" android:notificationTimeout="50" android:accessibilityFlags="flagDefault|flagIncludeNotImportantViews|flagReportViewIds" android:canRetrieveWindowContent="true" android:canRequestTouchExplorationMode="true" android:canPerformGestures="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
