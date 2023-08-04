@@ -40,4 +40,5 @@ BotNet/Rat(Android access trojan) Features
  🟠Live Notification Logging 
  
 View WiFi Networks (logs previously seen) 
+
  🟠File Explorer & Downloader 
