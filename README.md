@@ -30,7 +30,7 @@ A cloud based remote android managment suite
 
 ## Installation
 
-1. Clone `git clone https://github.com/hax4us/haxRat.git`
+1. Clone `https://github.com/TeamBlackBerry/TBBRAT`
 
 3. Goto directory `cd TBBRAT`
 
