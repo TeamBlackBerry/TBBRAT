@@ -1,13 +1,16 @@
 # TBBRAT 
 
 <p align="center">
-	printf " ${IRed}
-[•]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[•] 
-[•] AUTHOR    : ARMAN X ALAMIN
-[•] FACEBOOK  : TEAM BLACK BERRY
-[•] GITHUB    : TeamBlackBerry
-[•] TOOL      : TBB BOT-NET
-[•]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[•] \n"
+
+  _______ _     _     _____       _   
+ |__   __| |   | |   |  __ \     | |  
+    | |  | |__ | |__ | |__) |__ _| |_ 
+    | |  | '_ \| '_ \|  _  // _` | __|
+    | |  | |_) | |_) | | \ \ (_| | |_ 
+    |_|  |_.__/|_.__/|_|  \_\__,_|\__|
+                                      
+                                      
+
 A cloud based remote android managment suite
 </p>
 
