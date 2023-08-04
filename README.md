@@ -7,7 +7,9 @@
 
 BotNet/Rat(Android access trojan) Features
 
-Screenshot Capture
+
+
+Screenshot Capturer
 Screen Recorder
 Rear Camera Recorder
 Front Camera Recorder
