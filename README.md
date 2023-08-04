@@ -1,7 +1,13 @@
 # TBBRAT 
 
 <p align="center">
-<img src="https://uploadnow.io/f/bR8kCCM" height="60"><br>
+	printf " ${IRed}
+[•]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[•] 
+[•] AUTHOR    : ARMAN X ALAMIN
+[•] FACEBOOK  : TEAM BLACK BERRY
+[•] GITHUB    : TeamBlackBerry
+[•] TOOL      : TBB BOT-NET
+[•]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[•] \n"
 A cloud based remote android managment suite
 </p>
 
