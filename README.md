@@ -1,7 +1,7 @@
 # TBBRAT 
 
 <p align="center">
-<img src="https://github.com/TBBRAt/tbbrat/raw/master/server/assets/webpublic/logo.png" height="60"><br>
+<img src="https://github.com/TBBRAT/tbbrat/raw/master/server/assets/webpublic/logo.png" height="60"><br>
 A cloud based remote android managment suite
 </p>
 
