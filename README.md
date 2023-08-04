@@ -1,20 +1,8 @@
-# TBBRAT 
-
-<p align="center">
-
-  _______ _     _     _____       _   
- |__   __| |   | |   |  __ \     | |  
-    | |  | |__ | |__ | |__) |__ _| |_ 
-    | |  | '_ \| '_ \|  _  // _` | __|
-    | |  | |_) | |_) | | \ \ (_| | |_ 
-    |_|  |_.__/|_.__/|_|  \_\__,_|\__|
-                                      
-                                      
-
+<p align="center" font color=green>
 A cloud based remote android managment suite
 </p>
 
-## Special Features
+##Special Features
 - Anti Uninstall (Victim can't uninstall)
 - Auto Grant All Permission ( No need touch payload all permission auto grant) 
 
