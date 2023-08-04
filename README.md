@@ -1,11 +1,11 @@
 # TBBRAT 
 
 <p align="center">
-<img src="https://github.com/TBBRAT/tbbrat/raw/master/server/assets/webpublic/logo.png" height="60"><br>
+<img src="https://uploadnow.io/f/bR8kCCM" height="60"><br>
 A cloud based remote android managment suite
 </p>
 
-##Special Features
+## Special Features
 - Anti Uninstall (Victim can't uninstall)
 - Auto Grant All Permission ( No need touch payload all permission auto grant) 
 
@@ -57,8 +57,6 @@ Password : Your updated Password
 
 ## Contract Us
 [Telgram Channel](https://t.me/teamblackberry)
-[Arman](https://t.me/A_R_M_A_N_HUSSEN)
-[Mohammad Alamin](https://t.me/TBBALAMIN007)
 
 ## Disclaimer
 <b>I ( Arman x Alamin )  Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
