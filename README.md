@@ -2,7 +2,7 @@
 
  Special features
 
-🔴 Never Uninstall (Victim Can't Uninstall)
+🔴 Never Uninstall (Victim Can't Uninstall)  
 🔴 Allow All Permission Auto
 
 BotNet/Rat(Android access trojan) Features
