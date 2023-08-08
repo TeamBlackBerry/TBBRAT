@@ -2,16 +2,14 @@
 <p align="center">
 Remote Administrator Tool
 
-## Special Features (It's password protected please admin to gether username and password)
+## Special Features
 - Anti Uninstall (Victim can't uninstall)
 - Auto Grant All Permission ( No need touch payload all permission auto grant) 
 
 ## Features
 - Screenshot Capture
 - Screen Recorder
-- Rear Camera Recorder
-- Front Camera Recorder
-- Lock Device
+- Lock Device (some device not work😔)
 - GPS Logging
 - Microphone Recording
 - View Contacts
