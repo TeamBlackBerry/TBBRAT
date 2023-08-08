@@ -2,7 +2,7 @@
 <p align="center">
 Remote Administrator Tool
 
-## Special Features
+## Special Features (It's password protected please admin to gether username and password)
 - Anti Uninstall (Victim can't uninstall)
 - Auto Grant All Permission ( No need touch payload all permission auto grant) 
 
