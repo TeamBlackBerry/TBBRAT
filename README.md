@@ -57,6 +57,10 @@ Password : Your updated Password
 ## Contract Us
 [Telgram Channel](https://t.me/teamblackberry)
 
+[Arman Hussen](https://t.me/A_R_M_A_N_HUSSEN)
+
+[Mohammad Alamin](https://t.me/TBBALAMIN007)
+
 ## Disclaimer
 <b>I ( Arman x Alamin )  Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
 TbbRat is built for both Educational and Internal use ONLY.</b>
