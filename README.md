@@ -2,6 +2,8 @@
 <p align="center">
 Remote Administrator Tool
 
+## Password Protected Contract Admin to get password
+  
 ## Special Features
 - Anti Uninstall (Victim can't uninstall)
 - Auto Grant All Permission ( No need touch payload all permission auto grant) 
@@ -33,7 +35,7 @@ Remote Administrator Tool
 
 4. Install all requirement `bash setup.sh`
 
-4. And then `bash installation`
+4. And then `python installation.py`
 
 5. Then `cd`
 
